@@ -4,6 +4,7 @@ A Command line tool to find synonyms of entered characters
 # Instllation
 
 ```
+$ go get github.com/ryonakao/thesaurus
 $ go get github.com/ryonakao/synonyms
 ```
 
