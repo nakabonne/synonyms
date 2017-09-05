@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"thesaurus"
+
+	"github.com/ryonakao/thesaurus"
 )
 
 func main() {
